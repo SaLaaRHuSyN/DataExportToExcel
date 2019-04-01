@@ -1,0 +1,10 @@
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\bin\Debug\DataExportToExcel.exe.config
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\bin\Debug\DataExportToExcel.exe
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\bin\Debug\DataExportToExcel.pdb
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.csprojResolveAssemblyReference.cache
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.Form1.resources
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.Properties.Resources.resources
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.csproj.GenerateResource.Cache
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.csproj.CoreCompileInputs.cache
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.exe
+C:\Users\pLoTo\Documents\Visual Studio 2017\Projects\DataExportToExcel\DataExportToExcel\obj\Debug\DataExportToExcel.pdb
