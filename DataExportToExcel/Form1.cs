@@ -31,7 +31,16 @@ namespace DataExportToExcel
 
                 Microsoft.Office.Interop.Excel.Application xcelApp = new Microsoft.Office.Interop.Excel.Application();
                 xcelApp.Application.Workbooks.Add(Type.Missing);
-
+                 Microsoft.Office.Interop.Excel._Workbook workbook = app.Workbooks.Add(Type.Missing);
+                // creating new Excelsheet in workbook  
+                Microsoft.Office.Interop.Excel._Worksheet worksheet = null;
+                xcelApp.Visible = true;
+                // get the reference of first sheet. By default its name is Sheet1.  
+                // store its reference to worksheet  
+                worksheet = workbook.Sheets["Sheet1"];
+                worksheet = workbook.ActiveSheet;
+                // changing the name of active sheet  
+                worksheet.Name = "Exported from gridview";
                 for (int i = 1; i < dataGridView1.Columns.Count + 1; i++)
                 {
                     xcelApp.Cells[1, i] = dataGridView1.Columns[i - 1].HeaderText;
